@@ -1,0 +1,34 @@
+{
+ "blogs":[
+  {
+   "id": 1,
+   "author": "Alice Johnson",
+   "title": "The Future of Web Development",
+   "body": "Web development is constantly evolving with new technologies like React, Next.js, and AI-driven applications."
+  },
+  {
+   "id": 2,
+   "author": "James Carter",
+   "title": "Understanding JavaScript Closures",
+   "body": "Closures are one of the most powerful features in JavaScript, allowing functions to remember the scope in which they were created."
+  },
+  {
+   "id": 3,
+   "author": "Sophia Martinez",
+   "title": "How to Improve Your Coding Skills",
+   "body": "Practice daily, build projects, read documentation, and engage in coding challenges to enhance your programming skills."
+  },
+  {
+   "id": 4,
+   "author": "Michael Brown",
+   "title": "The Rise of TypeScript",
+   "body": "TypeScript has gained popularity due to its static typing, making JavaScript development more robust and scalable."
+  },
+  {
+   "id": 5,
+   "author": "Emma Wilson",
+   "title": "Best Practices for Writing Clean Code",
+   "body": "Follow principles like DRY (Don't Repeat Yourself), SOLID, and use meaningful variable names to keep your code clean and maintainable."
+  }
+]
+}
