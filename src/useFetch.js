@@ -12,7 +12,7 @@ const useFetch = (url) => {
       const response = await fetch(url);
       console.log(response);
       if (!response.ok){
-         throw Error('could not fetch the data for that resource cause')
+         throw Error('could not fetch the data for that resource')
       } 
       const data = await response.json();
       setTimeout(() => {
