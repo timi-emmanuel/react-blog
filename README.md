@@ -23,6 +23,7 @@ This blog app allows users to view blog posts dynamically. It helps me learn and
 ✅ Use props and state to manage data  
 ✅ Implement routing for individual blog pages  
 ✅ Fetch blog data from an API 
+
 ⬜ Add interactivity (like deleting posts)  
   
 
