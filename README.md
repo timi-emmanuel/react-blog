@@ -21,9 +21,10 @@ This blog app allows users to view blog posts dynamically. It helps me learn and
 ## 📌 Features to Implement
 ✅ Display a list of blog posts  
 ✅ Use props and state to manage data  
+✅ Implement routing for individual blog pages  
+✅ Fetch blog data from an API 
 ⬜ Add interactivity (like deleting posts)  
-⬜ Implement routing for individual blog pages  
-⬜ Fetch blog data from an API  
+  
 
 ## 🌱 Learning Goals
 - Understand React component-based architecture
