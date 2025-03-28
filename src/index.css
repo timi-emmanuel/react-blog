@@ -53,6 +53,9 @@
   margin-bottom: 8px;
 }
 
+.blog-preview a{
+  text-decoration: none;
+}
 .home{
  display:flex;
  justify-content: space-between;
@@ -73,12 +76,4 @@
 
 .button:hover {
   background-color: #d12a5c;
-}
-
-.center-div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  /* height: 100vh; */
-  background-color: blue;
 }
